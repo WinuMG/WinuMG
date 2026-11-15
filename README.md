@@ -3,7 +3,7 @@
 # Winuka Mahagamage
 
 <a href="https://github.com/WinuMG">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend-focused+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Distributed+Systems+%E2%80%A2+Identity+%E2%80%A2+DevOps;Building+an+OAuth+2.1+server+from+scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Distributed+Systems+%E2%80%A2+Identity+%E2%80%A2+DevOps;Building+an+OAuth+2.1+server+from+scratch" alt="Typing SVG" />
 </a>
 
 **Computer Science Undergraduate @ University of Colombo School of Computing (UCSC)**
@@ -21,211 +21,84 @@ Software Engineering Intern candidate · Matara, Sri Lanka 🇱🇰
 
 ---
 
-### `$ whoami`
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
 
-```java
-public record Engineer(
-        String name,
-        String role,
-        List<String> focus,
-        List<String> architectures,
-        String currentlyBuilding,
-        String openTo
-) {
-    public static Engineer winuka() {
-        return new Engineer(
-            "Winuka Mahagamage",
-            "CS Undergraduate @ UCSC · Freelance Web Developer",
-            List.of("Backend Engineering", "Auth & Identity", "CI/CD & DevOps"),
-            List.of("Microservices", "Modular Monolith", "Event-Driven / Saga", "REST"),
-            "AgentPass — an OAuth 2.1 / OIDC identity server for AI agents",
-            "Software Engineering Internships"
-        );
-    }
-}
-```
+<div align="center">
 
-I build backend systems that hold up in production: services that talk over message brokers, auth layers that check every request, and pipelines that refuse to merge untested code. One of my systems is **live and in daily use at the Road Development Authority, Matara**.
+#### Programming Languages
 
----
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-### 🛠️ Tech Stack
+#### Backend Development
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,ts,js,python,php&theme=dark" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&theme=dark" alt="Backend"/></td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td><b>Messaging</b></td>
-    <td><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="Messaging"/>&nbsp;
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" height="28"/>
-        <img src="https://img.shields.io/badge/WebSockets-4A4A55?style=flat-square" alt="WebSockets" height="28"/></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="Frontend"/></td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,aws,linux&theme=dark" alt="DevOps"/></td>
-  </tr>
-  <tr>
-    <td><b>Quality</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" height="28"/>
-      <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarCloud" height="28"/>
-      <img src="https://img.shields.io/badge/JaCoCo-C21325?style=flat-square" alt="JaCoCo" height="28"/>
-      <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white" alt="Testcontainers" height="28"/>
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="28"/>
-      <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" height="28"/>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Spring_Modulith-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Modulith"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 
----
+#### Frontend Development
 
-### 🚧 Currently Building: AgentPass
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
 
-> **An identity server for AI agents, written from scratch.** AI agents increasingly act *on behalf of* users. AgentPass gives them access that is scoped, time-limited and fully audited, never the user's own credentials.
+#### Databases
 
-```mermaid
-sequenceDiagram
-    autonumber
-    participant U as User
-    participant A as AI Agent
-    participant AP as AgentPass (OAuth 2.1 / OIDC)
-    participant R as Resource API
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"/>
 
-    U->>AP: Authenticate (Passkey / WebAuthn)
-    A->>AP: Token Exchange (RFC 8693) — act on behalf of user
-    AP-->>U: Risky action? Approve via CIBA
-    U-->>AP: Approved
-    AP->>A: Delegated, scoped, short-lived token
-    A->>R: Call API with delegated token
-    R-->>AP: Every action audited
-```
+#### Messaging & Real-time
 
-`Java 21` `Spring Boot` `PostgreSQL` `Redis` `React` `TypeScript` `Python` `Docker` `Kubernetes`
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/WebSockets-4A4A55?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 
----
+#### DevOps & Cloud
 
-### 🏗️ Featured Engineering Work
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GHCR"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="AWS"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### Testing & Code Quality
 
-#### 🚚 [SwiftTrack](https://github.com/WinuMG/swifttrack)
-**Microservices Logistics Platform** · *Grade A*
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="SonarQube"/>
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarqubecloud&logoColor=white" alt="SonarCloud"/>
+<img src="https://img.shields.io/badge/JaCoCo-C21325?style=for-the-badge" alt="JaCoCo"/>
+<img src="https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
 
-- Independent **Node.js microservices** behind an **API gateway** with JWT auth
-- **Saga orchestration** over **RabbitMQ** keeps distributed order transactions consistent
-- **Protocol adapters** connect legacy systems
-- Real-time delivery tracking pushed to the React dashboard with **Socket.IO**
+#### Dev Tools
 
-`Node.js` `RabbitMQ` `MongoDB` `Docker Compose`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-#### 🌾 AgriTech Connect
-**Farm Management & Agri-Trading Platform**
-
-- **11-module modular monolith** with Spring Modulith
-- Stateless **JWT** auth + role-based authorisation via **Spring Security**
-- **PostgreSQL + PostGIS** schema, versioned migrations with **Flyway**
-- CI/CD: **SonarQube** gates, **JaCoCo** coverage, **Testcontainers**, images published to **GHCR**
-
-`Java 25` `Spring Boot 4` `Valkey` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💼 [TalentPipe](https://github.com/Multi-Tenant-Recruitment-Platform)
-**Multi-Tenant SaaS Recruitment Platform** · *UCSC Industry Project*
-
-- **Led the React + TypeScript frontend** in a 5-person Agile team, mentored by a Senior SWE
-- JWT auth with **silent token refresh**, **RBAC for 4 roles**, **tenant data-isolation guard**
-- Integrated with a **Spring Boot** REST API
-- **Vitest** tests and CI through **Docker + GitHub Actions + SonarCloud**
-
-[`frontend`](https://github.com/Multi-Tenant-Recruitment-Platform/talentpipe-frontend) · [`backend`](https://github.com/Multi-Tenant-Recruitment-Platform/talentpipe-backend)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛣️ RDA Matara — Road Projects System
-**🟢 Live in production at the Road Development Authority**
-
-- Full-stack platform that monitors road projects run by private contractors and presents them to the public
-- **JWT role-based workflows** for engineers, technical officers, supervisors and staff
-- Real-time project tracking with **Google Maps API** visualisation
-- Containerised with **Docker**, served behind **Nginx**
-
-`React` `Express` `MongoDB` `Nginx`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🍞 Toast Vibes POS
-**Restaurant Point-of-Sale System**
-
-- **NestJS** server-side billing with automated reporting and scheduled backups
-- Live order and status sync on every dashboard via **WebSockets**
-- JWT-secured, role-based dashboards
-
-`NestJS` `TypeScript` `MongoDB` `shadcn/ui`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚽ GoPlay
-**Sports Booking & E-Commerce Platform** · *Grade A*
-
-- Built on a **custom PHP MVC framework** with a MySQL relational schema
-- **Led the Coach module**: time-slot validation, availability scheduling, earnings analytics, reviews
-- PayHere payments, Chart.js analytics
-
-`PHP` `MySQL` `Chart.js` `PayHere`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧠 Engineering Principles
-
-```yaml
-architecture:   Choose the simplest structure that scales: modular monolith first, microservices when needed
-consistency:    Distributed transactions need sagas, not hope
-security:       Deny by default · least privilege · validate every token
-quality:        If CI doesn't check it, it isn't guaranteed: tests, coverage gates, static analysis
-delivery:       Containerise everything · reproducible builds · migrations are code
-```
-
----
-
-### 📜 Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| DevOps Fundamentals | IBM | ✅ Jun 2026 |
-| API Development | Edureka · Coursera | ✅ Nov 2026 |
-| Machine Learning Specialization | DeepLearning.AI & Stanford Online | 🔄 In progress |
+</details>
 
 ---
 
