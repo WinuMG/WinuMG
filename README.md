@@ -3,7 +3,7 @@
 # Winuka Mahagamage
 
 <a href="https://github.com/WinuMG">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Distributed+Systems+%E2%80%A2+Identity+%E2%80%A2+DevOps;Building+an+OAuth+2.1+server+from+scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;Distributed+Systems+%E2%80%A2+Identity+%E2%80%A2+DevOps" alt="Typing SVG" />
 </a>
 
 **Computer Science Undergraduate @ University of Colombo School of Computing (UCSC)**
@@ -11,10 +11,9 @@
 Software Engineering Intern candidate · Matara, Sri Lanka 🇱🇰
 
 <p>
-  <a href="https://linkedin.com/in/winuka-mahagamage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/winuka-mahagamage" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:winukauni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/WinuMG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=WinuMG&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/WinuMG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -99,19 +98,6 @@ Software Engineering Intern candidate · Matara, Sri Lanka 🇱🇰
 </div>
 
 </details>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WinuMG&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinuMG&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=WinuMG&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinuMG&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-</div>
 
 ---
 
